@@ -6,7 +6,7 @@ You are the new Chief Data Scientist for your city's school district. In this ca
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
-#Files Submitted
+## Files Submitted
 Solution for pandas-challenge files submitted:
 /PyCitySchools/PyCitySchools_starter.ipynb (Contains the Data Analasis at head of the file)
 ReadMe
