@@ -9,6 +9,8 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 # Files Submitted
 Solution for pandas-challenge files submitted:
 - /PyCitySchools/PyCitySchools_starter.ipynb (Contains the Data Analasis at head of the file)
+- /PyCitySchools/Resources/schools_complete.csv
+- /PyCitySchools/Resources/students_complete.csv
 - ReadMe
 
 # Instructions
